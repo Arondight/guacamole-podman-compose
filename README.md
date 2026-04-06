@@ -2,6 +2,10 @@
 
 ## About
 
-Run `./prepare.sh` first, visit `http://192.168.1.123:8000/guacamole/#/` after deploy.
+Apache Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH.
 
-Here is [origin repository](https://github.com/boschkundendienst/guacamole-docker-compose), a docker-compose version.
+## Usage
+
+Run `./prepare.sh`, then visit [http://localhost:8000/guacamole/#/](http://localhost:8000/guacamole/#/) after deployed.
+
+> Here is [origin repository](https://github.com/boschkundendienst/guacamole-docker-compose), a docker-compose version.
